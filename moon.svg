@@ -1,4 +1,4 @@
-
+<svg>
   <g
      transform="translate(-219.75,-252.12305)"
      id="layer1">
@@ -7,3 +7,4 @@
        d="M 303.95898,252.37305 A 84.285713,88.571426 0 0 0 220,340.93359 a 84.285713,88.571426 0 0 0 74.73828,87.94922 148.52313,145.66599 0 0 1 -26.11914,-82.23437 148.52313,145.66599 0 0 1 35.33984,-94.27539 z"
        style="fill:#ffeeaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
   </g>
+</svg>
